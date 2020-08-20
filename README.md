@@ -1,5 +1,5 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<h1 align="center">
+<h1>
   GATSBY + NETLIFY + GIT CKit V1.0
 </h1>
 

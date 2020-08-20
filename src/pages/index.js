@@ -1,22 +1,14 @@
 import React from "react"
-import { Link } from "gatsby"
-
-import Layout from "../components/layout"
-import Image from "../components/image"
-import SEO from "../components/seo"
 
 const IndexPage = () => (
-  <Layout>
-    <SEO title="Home" />
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Image />
-    </div>
-    <Link to="/page-2/">Go to page 2</Link> <br />
-    <Link to="/using-typescript/">Go to "Using TypeScript"</Link>
-  </Layout>
+  <div>
+    <h2>Gatsby + Netlify + Git CKit v1.0</h2>
+    <ol>
+      <li>Clone repo via <em>git clone https://(url)</em></li>
+      <li>Run command <em>gatsby develop</em> to start https://localhost:8000/ <em>git clone https://(url)</em></li>
+      <li>Use <em>git commit -m "comment"</em> to commit local changes to repo</li>
+    </ol>
+  </div>
 )
 
 export default IndexPage

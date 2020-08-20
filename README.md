@@ -1,6 +1,6 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <h1>
-  GATSBY + NETLIFY + GIT CKit V1.0
+  CSKit V1.0
 </h1>
 
 Default Boilerplate for Standalone CMS Project

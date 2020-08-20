@@ -1,46 +1,41 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
 <h1 align="center">
   GATSBY + NETLIFY + GIT CKit V1.0
 </h1>
 
 Default Boilerplate for Standalone CMS Project
 
-## 🚀 Quick start
+##  Quick start
 
-1.  **Create a Gatsby site.**
+1.  **Clone git repository**
 
-    Use the Gatsby CLI to create a new site, specifying the default starter.
+    Use the Gatsby CLI to clone the existing repo to your local machine, namely, the default starter.
 
     ```shell
-    # create a new Gatsby site using the default starter
-    gatsby new my-default-starter https://github.com/gatsbyjs/gatsby-starter-default
+    # clone an existing repository
+    git clone https://github.com/(username)/(repository-name)
     ```
 
 2.  **Start developing.**
 
-    Navigate into your new site’s directory and start it up.
+    Navigate into your new site’s directory and start a local development environment.
 
     ```shell
-    cd my-default-starter/
+    cd (cloned-folder)
     gatsby develop
     ```
 
 3.  **Open the source code and start editing!**
 
-    Your site is now running at `http://localhost:8000`!
+    Your site is now running at `http://localhost:8000`
 
     _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
 
-    Open the `my-default-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
+    Open the cloned directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time.
 
 4.  **Add/Commit/Push changes to local files**
 
-    Navigate into your new site’s directory and start it up.
+    When you are finished, be sure to stage, commit, then push local changes to the master/branch.
 
     ```shell
     git add .
